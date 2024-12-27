@@ -1,0 +1,1030 @@
+{
+    "artist-credit": [
+      {
+        "artist": {
+          "disambiguation": "",
+          "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+          "sort-name": "Scaggs, Boz",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "type": "Person",
+          "aliases": [
+            {
+              "end": null,
+              "ended": false,
+              "primary": null,
+              "begin": null,
+              "name": "Bob Scaggs",
+              "locale": null,
+              "sort-name": "Bob Scaggs",
+              "type": null,
+              "type-id": null
+            },
+            {
+              "end": null,
+              "type-id": null,
+              "type": null,
+              "locale": null,
+              "sort-name": "Boz Skaggs",
+              "primary": null,
+              "begin": null,
+              "name": "Boz Skaggs",
+              "ended": false
+            },
+            {
+              "end": null,
+              "primary": null,
+              "begin": null,
+              "name": "William R. Scaggs",
+              "ended": false,
+              "type-id": null,
+              "type": null,
+              "locale": null,
+              "sort-name": "Scaggs, William R."
+            },
+            {
+              "name": "William Royce Scaggs",
+              "begin": null,
+              "primary": null,
+              "ended": false,
+              "type": "Legal name",
+              "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+              "locale": null,
+              "sort-name": "Scaggs, William Royce",
+              "end": null
+            }
+          ],
+          "name": "Boz Scaggs"
+        },
+        "name": "Boz Scaggs",
+        "joinphrase": ""
+      }
+    ],
+    "status": "Official",
+    "country": "US",
+    "asin": null,
+    "release-events": [
+      {
+        "date": "1980-04",
+        "area": {
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null,
+          "type-id": null,
+          "sort-name": "United States",
+          "name": "United States"
+        }
+      }
+    ],
+    "disambiguation": "Santa Maria, CA pressing",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "id": "07ae059e-080c-40ed-9488-2fa8303a3c78",
+    "media": [
+      {
+        "tracks": [
+          {
+            "number": "A1",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Boz Scaggs",
+                "artist": {
+                  "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "disambiguation": "",
+                  "name": "Boz Scaggs",
+                  "aliases": [
+                    {
+                      "type": null,
+                      "type-id": null,
+                      "locale": null,
+                      "sort-name": "Bob Scaggs",
+                      "name": "Bob Scaggs",
+                      "begin": null,
+                      "primary": null,
+                      "ended": false,
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "primary": null,
+                      "begin": null,
+                      "name": "Boz Skaggs",
+                      "ended": false,
+                      "type": null,
+                      "type-id": null,
+                      "locale": null,
+                      "sort-name": "Boz Skaggs"
+                    },
+                    {
+                      "end": null,
+                      "sort-name": "Scaggs, William R.",
+                      "locale": null,
+                      "type-id": null,
+                      "type": null,
+                      "ended": false,
+                      "name": "William R. Scaggs",
+                      "begin": null,
+                      "primary": null
+                    },
+                    {
+                      "type": "Legal name",
+                      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                      "sort-name": "Scaggs, William Royce",
+                      "locale": null,
+                      "primary": null,
+                      "begin": null,
+                      "name": "William Royce Scaggs",
+                      "ended": false,
+                      "end": null
+                    }
+                  ],
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Scaggs, Boz"
+                }
+              }
+            ],
+            "position": 1,
+            "recording": {
+              "artist-credit": [
+                {
+                  "artist": {
+                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                    "type": "Person",
+                    "sort-name": "Scaggs, Boz",
+                    "name": "Boz Scaggs",
+                    "disambiguation": "",
+                    "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+                  },
+                  "name": "Boz Scaggs",
+                  "joinphrase": ""
+                }
+              ],
+              "video": false,
+              "aliases": [
+                {
+                  "ended": false,
+                  "begin": null,
+                  "primary": null,
+                  "name": "Jo Jo",
+                  "sort-name": "Jo Jo",
+                  "locale": null,
+                  "type": null,
+                  "type-id": null,
+                  "end": null
+                },
+                {
+                  "type": null,
+                  "type-id": null,
+                  "sort-name": "JoJo",
+                  "locale": null,
+                  "begin": null,
+                  "primary": null,
+                  "name": "JoJo",
+                  "ended": false,
+                  "end": null
+                },
+                {
+                  "end": null,
+                  "locale": null,
+                  "sort-name": "Jo‐Jo",
+                  "type-id": null,
+                  "type": null,
+                  "ended": false,
+                  "begin": null,
+                  "primary": null,
+                  "name": "Jo‐Jo"
+                }
+              ],
+              "first-release-date": "1980-04",
+              "length": 352066,
+              "disambiguation": "",
+              "id": "5802d0df-a46a-4a5c-910e-32f326549913",
+              "title": "Jojo"
+            },
+            "length": 351000,
+            "title": "Jojo",
+            "id": "7090f8db-a437-4899-af52-b524cf4f09e7"
+          },
+          {
+            "title": "Breakdown Dead Ahead",
+            "id": "16933b02-ecdb-42c7-b117-36332e6c52c6",
+            "number": "A2",
+            "artist-credit": [
+              {
+                "name": "Boz Scaggs",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Scaggs, Boz",
+                  "name": "Boz Scaggs",
+                  "aliases": [
+                    {
+                      "end": null,
+                      "name": "Bob Scaggs",
+                      "primary": null,
+                      "begin": null,
+                      "ended": false,
+                      "type-id": null,
+                      "type": null,
+                      "locale": null,
+                      "sort-name": "Bob Scaggs"
+                    },
+                    {
+                      "end": null,
+                      "locale": null,
+                      "sort-name": "Boz Skaggs",
+                      "type": null,
+                      "type-id": null,
+                      "ended": false,
+                      "name": "Boz Skaggs",
+                      "primary": null,
+                      "begin": null
+                    },
+                    {
+                      "type-id": null,
+                      "type": null,
+                      "sort-name": "Scaggs, William R.",
+                      "locale": null,
+                      "begin": null,
+                      "primary": null,
+                      "name": "William R. Scaggs",
+                      "ended": false,
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "ended": false,
+                      "primary": null,
+                      "begin": null,
+                      "name": "William Royce Scaggs",
+                      "locale": null,
+                      "sort-name": "Scaggs, William Royce",
+                      "type": "Legal name",
+                      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf"
+                    }
+                  ],
+                  "disambiguation": "",
+                  "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "position": 2,
+            "recording": {
+              "first-release-date": "1980-04",
+              "aliases": [],
+              "length": 275200,
+              "video": false,
+              "artist-credit": [
+                {
+                  "joinphrase": "",
+                  "artist": {
+                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                    "type": "Person",
+                    "sort-name": "Scaggs, Boz",
+                    "name": "Boz Scaggs",
+                    "disambiguation": "",
+                    "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+                  },
+                  "name": "Boz Scaggs"
+                }
+              ],
+              "title": "Breakdown Dead Ahead",
+              "id": "1bd4d91c-7ab5-4ff4-a828-28abc3033b01",
+              "disambiguation": ""
+            },
+            "length": 273000
+          },
+          {
+            "title": "Simone",
+            "id": "ccd2fae4-001a-4dd7-89a7-8209bf13fed9",
+            "recording": {
+              "aliases": [],
+              "first-release-date": "1980-04",
+              "length": 308000,
+              "artist-credit": [
+                {
+                  "joinphrase": "",
+                  "artist": {
+                    "disambiguation": "",
+                    "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                    "sort-name": "Scaggs, Boz",
+                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                    "type": "Person",
+                    "name": "Boz Scaggs"
+                  },
+                  "name": "Boz Scaggs"
+                }
+              ],
+              "video": false,
+              "id": "0b4b8791-a0a8-496a-b019-e9c47c876416",
+              "title": "Simone",
+              "disambiguation": ""
+            },
+            "length": 305000,
+            "number": "A3",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Boz Scaggs",
+                "artist": {
+                  "aliases": [
+                    {
+                      "primary": null,
+                      "begin": null,
+                      "name": "Bob Scaggs",
+                      "ended": false,
+                      "type-id": null,
+                      "type": null,
+                      "locale": null,
+                      "sort-name": "Bob Scaggs",
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "type": null,
+                      "type-id": null,
+                      "sort-name": "Boz Skaggs",
+                      "locale": null,
+                      "name": "Boz Skaggs",
+                      "primary": null,
+                      "begin": null,
+                      "ended": false
+                    },
+                    {
+                      "end": null,
+                      "locale": null,
+                      "sort-name": "Scaggs, William R.",
+                      "type-id": null,
+                      "type": null,
+                      "ended": false,
+                      "begin": null,
+                      "primary": null,
+                      "name": "William R. Scaggs"
+                    },
+                    {
+                      "ended": false,
+                      "name": "William Royce Scaggs",
+                      "primary": null,
+                      "begin": null,
+                      "sort-name": "Scaggs, William Royce",
+                      "locale": null,
+                      "type": "Legal name",
+                      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                      "end": null
+                    }
+                  ],
+                  "name": "Boz Scaggs",
+                  "sort-name": "Scaggs, Boz",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "position": 3
+          },
+          {
+            "title": "You Can Have Me Anytime",
+            "id": "960c1a6f-7562-49ce-9ddc-8f4b62ff7b1f",
+            "length": 296000,
+            "recording": {
+              "disambiguation": "",
+              "id": "b0e2cb50-b44e-4637-9e54-f69325179d30",
+              "title": "You Can Have Me Anytime",
+              "artist-credit": [
+                {
+                  "joinphrase": "",
+                  "artist": {
+                    "disambiguation": "",
+                    "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                    "type": "Person",
+                    "sort-name": "Scaggs, Boz",
+                    "name": "Boz Scaggs"
+                  },
+                  "name": "Boz Scaggs"
+                }
+              ],
+              "video": false,
+              "length": 297000,
+              "aliases": [],
+              "first-release-date": "1980-04"
+            },
+            "position": 4,
+            "number": "A4",
+            "artist-credit": [
+              {
+                "name": "Boz Scaggs",
+                "artist": {
+                  "name": "Boz Scaggs",
+                  "aliases": [
+                    {
+                      "sort-name": "Bob Scaggs",
+                      "locale": null,
+                      "type": null,
+                      "type-id": null,
+                      "ended": false,
+                      "name": "Bob Scaggs",
+                      "primary": null,
+                      "begin": null,
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "ended": false,
+                      "name": "Boz Skaggs",
+                      "begin": null,
+                      "primary": null,
+                      "locale": null,
+                      "sort-name": "Boz Skaggs",
+                      "type": null,
+                      "type-id": null
+                    },
+                    {
+                      "primary": null,
+                      "begin": null,
+                      "name": "William R. Scaggs",
+                      "ended": false,
+                      "type": null,
+                      "type-id": null,
+                      "sort-name": "Scaggs, William R.",
+                      "locale": null,
+                      "end": null
+                    },
+                    {
+                      "begin": null,
+                      "primary": null,
+                      "name": "William Royce Scaggs",
+                      "ended": false,
+                      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                      "type": "Legal name",
+                      "sort-name": "Scaggs, William Royce",
+                      "locale": null,
+                      "end": null
+                    }
+                  ],
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Scaggs, Boz",
+                  "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "disambiguation": ""
+                },
+                "joinphrase": ""
+              }
+            ]
+          },
+          {
+            "id": "74f6d1f1-c2d2-4415-90af-06712e8dfe8e",
+            "title": "Middle Man",
+            "length": 291000,
+            "recording": {
+              "video": false,
+              "artist-credit": [
+                {
+                  "joinphrase": "",
+                  "artist": {
+                    "sort-name": "Scaggs, Boz",
+                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                    "type": "Person",
+                    "name": "Boz Scaggs",
+                    "disambiguation": "",
+                    "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+                  },
+                  "name": "Boz Scaggs"
+                }
+              ],
+              "length": 292000,
+              "first-release-date": "1980-04",
+              "aliases": [],
+              "disambiguation": "",
+              "title": "Middle Man",
+              "id": "8d8b440a-cc73-40da-9ef1-c9e1a87c3e48"
+            },
+            "position": 5,
+            "artist-credit": [
+              {
+                "name": "Boz Scaggs",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Scaggs, Boz",
+                  "name": "Boz Scaggs",
+                  "aliases": [
+                    {
+                      "name": "Bob Scaggs",
+                      "begin": null,
+                      "primary": null,
+                      "ended": false,
+                      "type-id": null,
+                      "type": null,
+                      "locale": null,
+                      "sort-name": "Bob Scaggs",
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "type-id": null,
+                      "type": null,
+                      "locale": null,
+                      "sort-name": "Boz Skaggs",
+                      "primary": null,
+                      "begin": null,
+                      "name": "Boz Skaggs",
+                      "ended": false
+                    },
+                    {
+                      "end": null,
+                      "locale": null,
+                      "sort-name": "Scaggs, William R.",
+                      "type-id": null,
+                      "type": null,
+                      "ended": false,
+                      "begin": null,
+                      "primary": null,
+                      "name": "William R. Scaggs"
+                    },
+                    {
+                      "end": null,
+                      "sort-name": "Scaggs, William Royce",
+                      "locale": null,
+                      "type": "Legal name",
+                      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                      "ended": false,
+                      "name": "William Royce Scaggs",
+                      "begin": null,
+                      "primary": null
+                    }
+                  ],
+                  "disambiguation": "",
+                  "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "number": "B1"
+          },
+          {
+            "length": 224000,
+            "recording": {
+              "video": false,
+              "artist-credit": [
+                {
+                  "artist": {
+                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                    "type": "Person",
+                    "sort-name": "Scaggs, Boz",
+                    "name": "Boz Scaggs",
+                    "disambiguation": "",
+                    "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+                  },
+                  "name": "Boz Scaggs",
+                  "joinphrase": ""
+                }
+              ],
+              "first-release-date": "1980-04",
+              "aliases": [],
+              "length": 224000,
+              "disambiguation": "",
+              "title": "Do Like You Do in New York",
+              "id": "91747118-29eb-42f5-b85c-f763754d266b"
+            },
+            "position": 6,
+            "number": "B2",
+            "artist-credit": [
+              {
+                "name": "Boz Scaggs",
+                "artist": {
+                  "aliases": [
+                    {
+                      "end": null,
+                      "type": null,
+                      "type-id": null,
+                      "sort-name": "Bob Scaggs",
+                      "locale": null,
+                      "name": "Bob Scaggs",
+                      "primary": null,
+                      "begin": null,
+                      "ended": false
+                    },
+                    {
+                      "ended": false,
+                      "name": "Boz Skaggs",
+                      "begin": null,
+                      "primary": null,
+                      "sort-name": "Boz Skaggs",
+                      "locale": null,
+                      "type-id": null,
+                      "type": null,
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "ended": false,
+                      "name": "William R. Scaggs",
+                      "begin": null,
+                      "primary": null,
+                      "sort-name": "Scaggs, William R.",
+                      "locale": null,
+                      "type-id": null,
+                      "type": null
+                    },
+                    {
+                      "locale": null,
+                      "sort-name": "Scaggs, William Royce",
+                      "type": "Legal name",
+                      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                      "ended": false,
+                      "name": "William Royce Scaggs",
+                      "begin": null,
+                      "primary": null,
+                      "end": null
+                    }
+                  ],
+                  "name": "Boz Scaggs",
+                  "sort-name": "Scaggs, Boz",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "disambiguation": ""
+                },
+                "joinphrase": ""
+              }
+            ],
+            "title": "Do Like You Do in New York",
+            "id": "f03aaf28-e75b-49f8-a05a-21cdcda5864d"
+          },
+          {
+            "position": 7,
+            "number": "B3",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Scaggs, Boz",
+                  "name": "Boz Scaggs",
+                  "aliases": [
+                    {
+                      "end": null,
+                      "name": "Bob Scaggs",
+                      "begin": null,
+                      "primary": null,
+                      "ended": false,
+                      "type-id": null,
+                      "type": null,
+                      "locale": null,
+                      "sort-name": "Bob Scaggs"
+                    },
+                    {
+                      "end": null,
+                      "type": null,
+                      "type-id": null,
+                      "locale": null,
+                      "sort-name": "Boz Skaggs",
+                      "name": "Boz Skaggs",
+                      "begin": null,
+                      "primary": null,
+                      "ended": false
+                    },
+                    {
+                      "end": null,
+                      "type-id": null,
+                      "type": null,
+                      "sort-name": "Scaggs, William R.",
+                      "locale": null,
+                      "primary": null,
+                      "begin": null,
+                      "name": "William R. Scaggs",
+                      "ended": false
+                    },
+                    {
+                      "ended": false,
+                      "begin": null,
+                      "primary": null,
+                      "name": "William Royce Scaggs",
+                      "sort-name": "Scaggs, William Royce",
+                      "locale": null,
+                      "type": "Legal name",
+                      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                      "end": null
+                    }
+                  ]
+                },
+                "name": "Boz Scaggs",
+                "joinphrase": ""
+              }
+            ],
+            "length": 218000,
+            "recording": {
+              "first-release-date": "1980-04",
+              "aliases": [],
+              "length": 219000,
+              "video": false,
+              "artist-credit": [
+                {
+                  "name": "Boz Scaggs",
+                  "artist": {
+                    "disambiguation": "",
+                    "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                    "type": "Person",
+                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                    "sort-name": "Scaggs, Boz",
+                    "name": "Boz Scaggs"
+                  },
+                  "joinphrase": ""
+                }
+              ],
+              "title": "Angel You",
+              "id": "08def3a4-2a0a-4693-8cb4-1c14be85a723",
+              "disambiguation": ""
+            },
+            "title": "Angel You",
+            "id": "827054a0-5a97-481b-9c08-616208e0666e"
+          },
+          {
+            "id": "2b09c59a-fa6f-4f59-9ad8-1ae90000dc5d",
+            "title": "Isn’t It Time",
+            "artist-credit": [
+              {
+                "name": "Boz Scaggs",
+                "artist": {
+                  "aliases": [
+                    {
+                      "end": null,
+                      "begin": null,
+                      "primary": null,
+                      "name": "Bob Scaggs",
+                      "ended": false,
+                      "type": null,
+                      "type-id": null,
+                      "locale": null,
+                      "sort-name": "Bob Scaggs"
+                    },
+                    {
+                      "begin": null,
+                      "primary": null,
+                      "name": "Boz Skaggs",
+                      "ended": false,
+                      "type": null,
+                      "type-id": null,
+                      "sort-name": "Boz Skaggs",
+                      "locale": null,
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "ended": false,
+                      "primary": null,
+                      "begin": null,
+                      "name": "William R. Scaggs",
+                      "locale": null,
+                      "sort-name": "Scaggs, William R.",
+                      "type-id": null,
+                      "type": null
+                    },
+                    {
+                      "end": null,
+                      "ended": false,
+                      "name": "William Royce Scaggs",
+                      "begin": null,
+                      "primary": null,
+                      "sort-name": "Scaggs, William Royce",
+                      "locale": null,
+                      "type": "Legal name",
+                      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf"
+                    }
+                  ],
+                  "name": "Boz Scaggs",
+                  "sort-name": "Scaggs, Boz",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "disambiguation": ""
+                },
+                "joinphrase": ""
+              }
+            ],
+            "number": "B4",
+            "position": 8,
+            "recording": {
+              "video": false,
+              "artist-credit": [
+                {
+                  "artist": {
+                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                    "type": "Person",
+                    "sort-name": "Scaggs, Boz",
+                    "name": "Boz Scaggs",
+                    "disambiguation": "",
+                    "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+                  },
+                  "name": "Boz Scaggs",
+                  "joinphrase": ""
+                }
+              ],
+              "first-release-date": "1980-03-29",
+              "aliases": [],
+              "length": 294000,
+              "disambiguation": "",
+              "title": "Isn’t It Time",
+              "id": "ac640901-7852-49fe-ae07-87a1c320511f"
+            },
+            "length": 293000
+          },
+          {
+            "title": "You Got Some Imagination",
+            "id": "9a03db9d-63bb-4af0-b54a-aafc0ab1f474",
+            "recording": {
+              "length": 237000,
+              "aliases": [],
+              "first-release-date": "1980-04",
+              "artist-credit": [
+                {
+                  "artist": {
+                    "disambiguation": "",
+                    "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                    "sort-name": "Scaggs, Boz",
+                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                    "type": "Person",
+                    "name": "Boz Scaggs"
+                  },
+                  "name": "Boz Scaggs",
+                  "joinphrase": ""
+                }
+              ],
+              "video": false,
+              "id": "461fc0ff-a2d9-42a7-8feb-2e05c8da5577",
+              "title": "You Got Some Imagination",
+              "disambiguation": ""
+            },
+            "length": 236000,
+            "number": "B5",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Scaggs, Boz",
+                  "name": "Boz Scaggs",
+                  "aliases": [
+                    {
+                      "end": null,
+                      "type-id": null,
+                      "type": null,
+                      "locale": null,
+                      "sort-name": "Bob Scaggs",
+                      "begin": null,
+                      "primary": null,
+                      "name": "Bob Scaggs",
+                      "ended": false
+                    },
+                    {
+                      "primary": null,
+                      "begin": null,
+                      "name": "Boz Skaggs",
+                      "ended": false,
+                      "type-id": null,
+                      "type": null,
+                      "locale": null,
+                      "sort-name": "Boz Skaggs",
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "type": null,
+                      "type-id": null,
+                      "sort-name": "Scaggs, William R.",
+                      "locale": null,
+                      "begin": null,
+                      "primary": null,
+                      "name": "William R. Scaggs",
+                      "ended": false
+                    },
+                    {
+                      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                      "type": "Legal name",
+                      "locale": null,
+                      "sort-name": "Scaggs, William Royce",
+                      "primary": null,
+                      "begin": null,
+                      "name": "William Royce Scaggs",
+                      "ended": false,
+                      "end": null
+                    }
+                  ],
+                  "disambiguation": "",
+                  "id": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+                },
+                "name": "Boz Scaggs"
+              }
+            ],
+            "position": 9
+          }
+        ],
+        "format": "12\" Vinyl",
+        "position": 1,
+        "title": "",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "track-offset": 0,
+        "track-count": 9,
+        "discs": []
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "1980-04",
+    "label-info": [
+      {
+        "catalog-number": "FC 36106",
+        "label": {
+          "aliases": [
+            {
+              "name": "Colombia",
+              "primary": null,
+              "begin": null,
+              "ended": false,
+              "type": null,
+              "type-id": null,
+              "locale": null,
+              "sort-name": "Colombia",
+              "end": null
+            },
+            {
+              "end": null,
+              "type-id": null,
+              "type": null,
+              "locale": null,
+              "sort-name": "Colombia Records",
+              "name": "Colombia Records",
+              "primary": null,
+              "begin": null,
+              "ended": false
+            },
+            {
+              "locale": null,
+              "sort-name": "Columbia",
+              "type-id": null,
+              "type": null,
+              "ended": false,
+              "name": "Columbia",
+              "begin": null,
+              "primary": null,
+              "end": null
+            },
+            {
+              "end": null,
+              "primary": null,
+              "begin": null,
+              "name": "Columbia US",
+              "ended": false,
+              "type": null,
+              "type-id": null,
+              "locale": null,
+              "sort-name": "Columbia US"
+            },
+            {
+              "sort-name": "columbia",
+              "locale": null,
+              "type": null,
+              "type-id": null,
+              "ended": false,
+              "name": "columbia",
+              "begin": null,
+              "primary": null,
+              "end": null
+            }
+          ],
+          "name": "Columbia",
+          "sort-name": "Columbia",
+          "type": "Imprint",
+          "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+          "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+          "label-code": 162,
+          "disambiguation": "Sony Music, worldwide except JP; formerly owned by CBS between 1938–1990 within US/CA/MX"
+        }
+      }
+    ],
+    "aliases": [],
+    "packaging": "Cardboard/Paper Sleeve",
+    "quality": "normal",
+    "title": "Middle Man",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "barcode": "",
+    "cover-art-archive": {
+      "back": true,
+      "darkened": false,
+      "front": true,
+      "artwork": true,
+      "count": 6
+    }
+  }

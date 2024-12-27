@@ -1,0 +1,791 @@
+{
+    "asin": null,
+    "status": "Official",
+    "artist-credit": [
+      {
+        "artist": {
+          "disambiguation": "",
+          "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+          "sort-name": "Dire Straits",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "type": "Group",
+          "aliases": [
+            {
+              "type-id": null,
+              "type": null,
+              "sort-name": "Dire Straights",
+              "locale": null,
+              "begin": null,
+              "primary": null,
+              "name": "Dire Straights",
+              "ended": false,
+              "end": null
+            },
+            {
+              "end": null,
+              "locale": null,
+              "sort-name": "Dire Straits (TH)",
+              "type-id": null,
+              "type": null,
+              "ended": false,
+              "name": "Dire Straits (TH)",
+              "primary": null,
+              "begin": null
+            }
+          ],
+          "name": "Dire Straits"
+        },
+        "name": "Dire Straits",
+        "joinphrase": ""
+      }
+    ],
+    "country": "GB",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "id": "aa658dc0-cdce-4723-a7d6-c049aaae7a0b",
+    "media": [
+      {
+        "title": "",
+        "track-offset": 0,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "track-count": 9,
+        "discs": [],
+        "tracks": [
+          {
+            "id": "917a62eb-aedf-42f4-99cb-f4562036fb86",
+            "title": "Down to the Waterline",
+            "length": 242600,
+            "recording": {
+              "id": "39d891c0-b550-4568-a8a9-43c66900734b",
+              "title": "Down to the Waterline",
+              "disambiguation": "",
+              "aliases": [
+                {
+                  "name": "Down To The Waterline",
+                  "begin": null,
+                  "primary": null,
+                  "ended": false,
+                  "type-id": null,
+                  "type": null,
+                  "locale": null,
+                  "sort-name": "Down To The Waterline",
+                  "end": null
+                }
+              ],
+              "first-release-date": "1978-06-02",
+              "length": 241040,
+              "artist-credit": [
+                {
+                  "name": "Dire Straits",
+                  "artist": {
+                    "name": "Dire Straits",
+                    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                    "type": "Group",
+                    "sort-name": "Dire Straits",
+                    "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                    "disambiguation": ""
+                  },
+                  "joinphrase": ""
+                }
+              ],
+              "video": false
+            },
+            "position": 1,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "Dire Straits",
+                  "name": "Dire Straits",
+                  "aliases": [
+                    {
+                      "end": null,
+                      "name": "Dire Straights",
+                      "primary": null,
+                      "begin": null,
+                      "ended": false,
+                      "type": null,
+                      "type-id": null,
+                      "sort-name": "Dire Straights",
+                      "locale": null
+                    },
+                    {
+                      "end": null,
+                      "locale": null,
+                      "sort-name": "Dire Straits (TH)",
+                      "type": null,
+                      "type-id": null,
+                      "ended": false,
+                      "begin": null,
+                      "primary": null,
+                      "name": "Dire Straits (TH)"
+                    }
+                  ]
+                },
+                "name": "Dire Straits"
+              }
+            ],
+            "number": "A1"
+          },
+          {
+            "length": 326640,
+            "recording": {
+              "title": "Water of Love",
+              "id": "528f8e43-0e05-44e4-a232-ed0e717dc966",
+              "disambiguation": "",
+              "length": 326000,
+              "first-release-date": "1978-06-02",
+              "aliases": [
+                {
+                  "sort-name": "Water Of Love",
+                  "locale": null,
+                  "type": null,
+                  "type-id": null,
+                  "ended": false,
+                  "name": "Water Of Love",
+                  "primary": null,
+                  "begin": null,
+                  "end": null
+                }
+              ],
+              "video": false,
+              "artist-credit": [
+                {
+                  "joinphrase": "",
+                  "artist": {
+                    "sort-name": "Dire Straits",
+                    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                    "type": "Group",
+                    "name": "Dire Straits",
+                    "disambiguation": "",
+                    "id": "614e3804-7d34-41ba-857f-811bad7c2b7a"
+                  },
+                  "name": "Dire Straits"
+                }
+              ]
+            },
+            "position": 2,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                  "sort-name": "Dire Straits",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "aliases": [
+                    {
+                      "ended": false,
+                      "name": "Dire Straights",
+                      "begin": null,
+                      "primary": null,
+                      "sort-name": "Dire Straights",
+                      "locale": null,
+                      "type-id": null,
+                      "type": null,
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "ended": false,
+                      "begin": null,
+                      "primary": null,
+                      "name": "Dire Straits (TH)",
+                      "locale": null,
+                      "sort-name": "Dire Straits (TH)",
+                      "type-id": null,
+                      "type": null
+                    }
+                  ],
+                  "name": "Dire Straits"
+                },
+                "name": "Dire Straits"
+              }
+            ],
+            "number": "A2",
+            "id": "99e772ff-e6c7-4ae3-b33d-88bf9daeafb1",
+            "title": "Water of Love"
+          },
+          {
+            "position": 3,
+            "number": "A3",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "Dire Straits",
+                  "name": "Dire Straits",
+                  "aliases": [
+                    {
+                      "end": null,
+                      "ended": false,
+                      "primary": null,
+                      "begin": null,
+                      "name": "Dire Straights",
+                      "sort-name": "Dire Straights",
+                      "locale": null,
+                      "type-id": null,
+                      "type": null
+                    },
+                    {
+                      "locale": null,
+                      "sort-name": "Dire Straits (TH)",
+                      "type-id": null,
+                      "type": null,
+                      "ended": false,
+                      "name": "Dire Straits (TH)",
+                      "begin": null,
+                      "primary": null,
+                      "end": null
+                    }
+                  ]
+                },
+                "name": "Dire Straits"
+              }
+            ],
+            "length": 199600,
+            "recording": {
+              "id": "b5fab9b1-620d-4f4a-9bef-c17d58b5f75d",
+              "title": "Setting Me Up",
+              "disambiguation": "",
+              "length": 199600,
+              "aliases": [],
+              "first-release-date": "1978-06-02",
+              "artist-credit": [
+                {
+                  "artist": {
+                    "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                    "disambiguation": "",
+                    "name": "Dire Straits",
+                    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                    "type": "Group",
+                    "sort-name": "Dire Straits"
+                  },
+                  "name": "Dire Straits",
+                  "joinphrase": ""
+                }
+              ],
+              "video": false
+            },
+            "title": "Setting Me Up",
+            "id": "742508bb-b8ec-4434-8fe0-882a17e5a525"
+          },
+          {
+            "position": 4,
+            "artist-credit": [
+              {
+                "artist": {
+                  "aliases": [
+                    {
+                      "name": "Dire Straights",
+                      "begin": null,
+                      "primary": null,
+                      "ended": false,
+                      "type": null,
+                      "type-id": null,
+                      "locale": null,
+                      "sort-name": "Dire Straights",
+                      "end": null
+                    },
+                    {
+                      "ended": false,
+                      "name": "Dire Straits (TH)",
+                      "primary": null,
+                      "begin": null,
+                      "locale": null,
+                      "sort-name": "Dire Straits (TH)",
+                      "type": null,
+                      "type-id": null,
+                      "end": null
+                    }
+                  ],
+                  "name": "Dire Straits",
+                  "sort-name": "Dire Straits",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                  "disambiguation": ""
+                },
+                "name": "Dire Straits",
+                "joinphrase": ""
+              }
+            ],
+            "number": "A4",
+            "length": 253426,
+            "recording": {
+              "disambiguation": "",
+              "id": "900e8100-3d73-4b36-b417-a0f302e80e27",
+              "title": "Six Blade Knife",
+              "artist-credit": [
+                {
+                  "joinphrase": "",
+                  "name": "Dire Straits",
+                  "artist": {
+                    "name": "Dire Straits",
+                    "sort-name": "Dire Straits",
+                    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                    "type": "Group",
+                    "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                    "disambiguation": ""
+                  }
+                }
+              ],
+              "video": false,
+              "length": 252000,
+              "aliases": [],
+              "first-release-date": "1978-06-02"
+            },
+            "id": "6faf4bca-994d-4423-a70a-09a2ad8ad544",
+            "title": "Six Blade Knife"
+          },
+          {
+            "id": "f736bb4a-6038-46ed-8b85-4a9b5d7d04f4",
+            "title": "Southbound Again",
+            "position": 5,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Dire Straits",
+                "artist": {
+                  "disambiguation": "",
+                  "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "sort-name": "Dire Straits",
+                  "name": "Dire Straits",
+                  "aliases": [
+                    {
+                      "end": null,
+                      "type-id": null,
+                      "type": null,
+                      "sort-name": "Dire Straights",
+                      "locale": null,
+                      "begin": null,
+                      "primary": null,
+                      "name": "Dire Straights",
+                      "ended": false
+                    },
+                    {
+                      "end": null,
+                      "locale": null,
+                      "sort-name": "Dire Straits (TH)",
+                      "type": null,
+                      "type-id": null,
+                      "ended": false,
+                      "name": "Dire Straits (TH)",
+                      "primary": null,
+                      "begin": null
+                    }
+                  ]
+                }
+              }
+            ],
+            "number": "A5",
+            "length": 179506,
+            "recording": {
+              "video": false,
+              "artist-credit": [
+                {
+                  "name": "Dire Straits",
+                  "artist": {
+                    "sort-name": "Dire Straits",
+                    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                    "type": "Group",
+                    "name": "Dire Straits",
+                    "disambiguation": "",
+                    "id": "614e3804-7d34-41ba-857f-811bad7c2b7a"
+                  },
+                  "joinphrase": ""
+                }
+              ],
+              "length": 179040,
+              "first-release-date": "1978-06-02",
+              "aliases": [],
+              "disambiguation": "",
+              "title": "Southbound Again",
+              "id": "bcb68a67-b4f3-4f56-81de-a08668a94aa2"
+            }
+          },
+          {
+            "recording": {
+              "artist-credit": [
+                {
+                  "name": "Dire Straits",
+                  "artist": {
+                    "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                    "disambiguation": "",
+                    "name": "Dire Straits",
+                    "sort-name": "Dire Straits",
+                    "type": "Group",
+                    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                  },
+                  "joinphrase": ""
+                }
+              ],
+              "video": false,
+              "aliases": [
+                {
+                  "type-id": null,
+                  "type": null,
+                  "locale": null,
+                  "sort-name": "Sultans Of Swing",
+                  "begin": null,
+                  "primary": null,
+                  "name": "Sultans Of Swing",
+                  "ended": false,
+                  "end": null
+                }
+              ],
+              "first-release-date": "1978-06-02",
+              "length": 348600,
+              "disambiguation": "",
+              "id": "5e26f77d-73ee-4085-a7c8-d75d6a5cdfbf",
+              "title": "Sultans of Swing"
+            },
+            "length": 348760,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "sort-name": "Dire Straits",
+                  "name": "Dire Straits",
+                  "aliases": [
+                    {
+                      "sort-name": "Dire Straights",
+                      "locale": null,
+                      "type-id": null,
+                      "type": null,
+                      "ended": false,
+                      "primary": null,
+                      "begin": null,
+                      "name": "Dire Straights",
+                      "end": null
+                    },
+                    {
+                      "locale": null,
+                      "sort-name": "Dire Straits (TH)",
+                      "type-id": null,
+                      "type": null,
+                      "ended": false,
+                      "begin": null,
+                      "primary": null,
+                      "name": "Dire Straits (TH)",
+                      "end": null
+                    }
+                  ],
+                  "disambiguation": "",
+                  "id": "614e3804-7d34-41ba-857f-811bad7c2b7a"
+                },
+                "name": "Dire Straits"
+              }
+            ],
+            "number": "B1",
+            "position": 6,
+            "id": "6bfe46dc-d46c-4110-97d0-b55af3420d8d",
+            "title": "Sultans of Swing"
+          },
+          {
+            "title": "In the Gallery",
+            "id": "3accaf18-ac70-4f2d-a2c3-3325cc665209",
+            "number": "B2",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "aliases": [
+                    {
+                      "type": null,
+                      "type-id": null,
+                      "sort-name": "Dire Straights",
+                      "locale": null,
+                      "name": "Dire Straights",
+                      "begin": null,
+                      "primary": null,
+                      "ended": false,
+                      "end": null
+                    },
+                    {
+                      "end": null,
+                      "name": "Dire Straits (TH)",
+                      "primary": null,
+                      "begin": null,
+                      "ended": false,
+                      "type": null,
+                      "type-id": null,
+                      "locale": null,
+                      "sort-name": "Dire Straits (TH)"
+                    }
+                  ],
+                  "name": "Dire Straits",
+                  "sort-name": "Dire Straits",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                  "disambiguation": ""
+                },
+                "name": "Dire Straits"
+              }
+            ],
+            "position": 7,
+            "recording": {
+              "video": false,
+              "artist-credit": [
+                {
+                  "joinphrase": "",
+                  "name": "Dire Straits",
+                  "artist": {
+                    "disambiguation": "",
+                    "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                    "type": "Group",
+                    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                    "sort-name": "Dire Straits",
+                    "name": "Dire Straits"
+                  }
+                }
+              ],
+              "first-release-date": "1978-06-02",
+              "aliases": [
+                {
+                  "end": null,
+                  "ended": false,
+                  "name": "In The Gallery",
+                  "primary": null,
+                  "begin": null,
+                  "locale": null,
+                  "sort-name": "In The Gallery",
+                  "type-id": null,
+                  "type": null
+                }
+              ],
+              "length": 376666,
+              "disambiguation": "",
+              "title": "In the Gallery",
+              "id": "ad6daff6-9f7e-45d8-9610-dc3741f3a74c"
+            },
+            "length": 376706
+          },
+          {
+            "id": "a32cd81e-b75e-4784-8013-35f6c74bbfb8",
+            "title": "Wild West End",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Dire Straits",
+                "artist": {
+                  "aliases": [
+                    {
+                      "end": null,
+                      "ended": false,
+                      "begin": null,
+                      "primary": null,
+                      "name": "Dire Straights",
+                      "locale": null,
+                      "sort-name": "Dire Straights",
+                      "type": null,
+                      "type-id": null
+                    },
+                    {
+                      "ended": false,
+                      "begin": null,
+                      "primary": null,
+                      "name": "Dire Straits (TH)",
+                      "sort-name": "Dire Straits (TH)",
+                      "locale": null,
+                      "type-id": null,
+                      "type": null,
+                      "end": null
+                    }
+                  ],
+                  "name": "Dire Straits",
+                  "sort-name": "Dire Straits",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "number": "B3",
+            "position": 8,
+            "recording": {
+              "aliases": [],
+              "first-release-date": "1978-06-02",
+              "length": 282000,
+              "artist-credit": [
+                {
+                  "artist": {
+                    "name": "Dire Straits",
+                    "sort-name": "Dire Straits",
+                    "type": "Group",
+                    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                    "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+                    "disambiguation": ""
+                  },
+                  "name": "Dire Straits",
+                  "joinphrase": ""
+                }
+              ],
+              "video": false,
+              "id": "3963ed26-9e31-493b-9ce7-a0134bc0ddc7",
+              "title": "Wild West End",
+              "disambiguation": ""
+            },
+            "length": 281600
+          },
+          {
+            "recording": {
+              "video": false,
+              "artist-credit": [
+                {
+                  "artist": {
+                    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                    "type": "Group",
+                    "sort-name": "Dire Straits",
+                    "name": "Dire Straits",
+                    "disambiguation": "",
+                    "id": "614e3804-7d34-41ba-857f-811bad7c2b7a"
+                  },
+                  "name": "Dire Straits",
+                  "joinphrase": ""
+                }
+              ],
+              "length": 303000,
+              "first-release-date": "1978-06-02",
+              "aliases": [],
+              "disambiguation": "",
+              "title": "Lions",
+              "id": "1a267c4b-2994-462b-827f-5be6dbdf77b7"
+            },
+            "length": 303826,
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Dire Straits",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "aliases": [
+                    {
+                      "end": null,
+                      "type-id": null,
+                      "type": null,
+                      "sort-name": "Dire Straights",
+                      "locale": null,
+                      "name": "Dire Straights",
+                      "primary": null,
+                      "begin": null,
+                      "ended": false
+                    },
+                    {
+                      "end": null,
+                      "type": null,
+                      "type-id": null,
+                      "sort-name": "Dire Straits (TH)",
+                      "locale": null,
+                      "begin": null,
+                      "primary": null,
+                      "name": "Dire Straits (TH)",
+                      "ended": false
+                    }
+                  ],
+                  "name": "Dire Straits",
+                  "disambiguation": "",
+                  "id": "614e3804-7d34-41ba-857f-811bad7c2b7a"
+                },
+                "name": "Dire Straits",
+                "joinphrase": ""
+              }
+            ],
+            "number": "B4",
+            "position": 9,
+            "id": "84d4bf07-ff5d-41c8-9d88-c87e850b924f",
+            "title": "Lions"
+          }
+        ],
+        "format": "12\" Vinyl",
+        "position": 1
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "1978-06-02",
+        "area": {
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type-id": null,
+          "type": null,
+          "sort-name": "United Kingdom",
+          "name": "United Kingdom"
+        }
+      }
+    ],
+    "aliases": [],
+    "label-info": [
+      {
+        "catalog-number": "9102 021",
+        "label": {
+          "sort-name": "Vertigo",
+          "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+          "type": "Original Production",
+          "aliases": [
+            {
+              "end": null,
+              "locale": null,
+              "sort-name": "Vertigo Records",
+              "type": null,
+              "type-id": null,
+              "ended": false,
+              "name": "Vertigo Records",
+              "primary": null,
+              "begin": null
+            },
+            {
+              "type": "Label name",
+              "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+              "sort-name": "ヴァーティゴレコード",
+              "locale": "ja",
+              "name": "ヴァーティゴレコード",
+              "begin": null,
+              "primary": true,
+              "ended": false,
+              "end": null
+            }
+          ],
+          "name": "Vertigo",
+          "disambiguation": "originally a British rock label; German since 1998",
+          "id": "1b3b52a5-ef89-4f8b-8d5f-e15a7a58863b",
+          "label-code": 1633
+        }
+      }
+    ],
+    "date": "1978-06-02",
+    "cover-art-archive": {
+      "back": true,
+      "darkened": false,
+      "front": true,
+      "artwork": true,
+      "count": 8
+    },
+    "title": "Dire Straits",
+    "packaging-id": null,
+    "barcode": null,
+    "quality": "normal",
+    "packaging": null
+  }

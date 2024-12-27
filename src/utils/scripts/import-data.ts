@@ -1,9 +1,9 @@
 import mongoose from 'mongoose';
 import fs from 'fs';
 import csv from 'csv-parser';
-import Artist from './models/artist';
-import Vinyl from './models/vinyl';
-import Song from './models/song';
+import Artist from '../../models/artist';
+import Vinyl from '../../models/vinyl';
+import Song from '../../models/song';
 
 const mongoURI = 'mongodb://localhost:27017/snapp';
 

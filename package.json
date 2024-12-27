@@ -4,7 +4,9 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node-dev src/index.ts",
-    "import-data": "ts-node src/import-data.ts"
+    "import-data": "ts-node src/utils/scripts/import-data.ts",
+    "import-data-json": "ts-node src/utils/scripts/import-data-json.ts",
+    "fix-relationships": "ts-node src/utils/scripts/fix-relationships.ts"
   },
   "keywords": [],
   "author": "",
